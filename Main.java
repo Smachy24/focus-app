@@ -1,5 +1,9 @@
+import Classes.User;
+import Classes.Task;
+
 public class Main {
     public static void main(String[] args){
-        System.out.println("Test");
+        User user = new User();
+        System.out.println(user.getTaskList());
     }
 }

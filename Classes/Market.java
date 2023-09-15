@@ -1,4 +1,4 @@
 package Classes;
-public class Reward {
+public class Market {
     
 }
