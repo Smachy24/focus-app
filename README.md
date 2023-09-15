@@ -1,2 +1,2 @@
 # focus-app
-Focus App in Python
+Focus App in Java
